@@ -11,14 +11,13 @@
   
 # 💫About Me :
   
-🌱 I’m currently learning : Front-end Web Development
+🌱 I’m currently teaching myself: Front-end Web Development
+  
+ 👨‍🎓I'm enrolled in The University of Calgary's software engineering program
 
-  🤔 I’m currently open for a 2023 summer intern opportunity!
+  🤔 I’m open to summer 2023 internship opportunities
 
-  💬 Ask me about what I am currently learning
-
-  📫 How to reach me:  
-  Mail me at karadiaaryan@gmail.com
+  💬 Ask me about my current project
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-karadia/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:karadiaaryan@gmail.com) [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/192048846065500160)
