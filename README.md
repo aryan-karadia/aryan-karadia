@@ -13,7 +13,7 @@
   
 🌱 I’m currently teaching myself: Front-end Web Development
   
- 🏫🎓I'm enrolled in The University of Calgary's software engineering program
+ 🏫I'm enrolled in The University of Calgary's software engineering program
 
   🤔 I’m open to summer 2023 internship opportunities
 
