@@ -11,8 +11,6 @@
   
 # 💫About Me :
   
-🌱 I’m currently teaching myself: React and Firebase
-  
  🏫I'm enrolled in The University of Calgary's software engineering program
 
   🤔 Currently open to summer 2023 internship opportunities!
