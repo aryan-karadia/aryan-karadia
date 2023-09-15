@@ -13,7 +13,7 @@
   
  🏫I'm enrolled in The University of Calgary's software engineering program
 
-  🤔 Currently open to summer 2023 internship opportunities!
+  🤔 Currently open to summer 2024 internship opportunities!
 
   💬 Ask me about my current project
 
